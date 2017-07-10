@@ -20,3 +20,5 @@ Acknowledgements
 ----------------
 
 A large part of the work on this library was done at [TNO](http://www.tno.nl) in a project supported by the ["COMMIT/"](http://www.commit-nl.nl) program.	
+
+pmarella2 - Added a simple BigInt converter so that values can be converted back to BigInt after retriving them from Eth Smart Contract storage.
