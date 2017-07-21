@@ -22,4 +22,4 @@ Acknowledgements
 A large part of the work on this library was done at [TNO](http://www.tno.nl) in a project supported by the ["COMMIT/"](http://www.commit-nl.nl) program.	
 
 ----------------
-Added a simple BigInt converter so that values can be converted back to BigInt after retriving them from Solidity Smart Contract storage. -pmarella2
+pmarella2: Added a simple BigInt converter function letting values retrived from a Solidity Smart Contract be converted into BigInt for encryption and homomorphic addition.
