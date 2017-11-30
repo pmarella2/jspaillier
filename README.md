@@ -1,4 +1,4 @@
-jspaillier
+jspaillier (Proof of Concept)
 ==========
 
 jspaillier is a simple proof-of-concept Javascript implementation of the Paillier homomorphic encryption scheme. A demonstration of the code can be found at [here](http://mhe.github.io/jspaillier/).
